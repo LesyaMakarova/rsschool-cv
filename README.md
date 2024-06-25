@@ -1,2 +1,2 @@
 # rsschool-cv
-### https://LESYAMAKAROVA.github.io/rsschool-cv/cv
+### https://LesyaMakarova.github.io/rsschool-cv/cv
